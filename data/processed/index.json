@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-07-05T17:10:34.168171+00:00",
+  "scheme_count": 5,
+  "schemes": [
+    {
+      "slug": "hdfc-large-cap-fund-direct-growth",
+      "scheme_name": "HDFC Large Cap Fund Direct Growth",
+      "category": "Equity — Large Cap",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "files": {
+        "txt": "hdfc-large-cap-fund-direct-growth.txt",
+        "json": "hdfc-large-cap-fund-direct-growth.json"
+      },
+      "label_count": 16,
+      "section_count": 5,
+      "table_count": 1
+    },
+    {
+      "slug": "hdfc-mid-cap-fund-direct-growth",
+      "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+      "category": "Equity — Mid Cap",
+      "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "files": {
+        "txt": "hdfc-mid-cap-fund-direct-growth.txt",
+        "json": "hdfc-mid-cap-fund-direct-growth.json"
+      },
+      "label_count": 16,
+      "section_count": 5,
+      "table_count": 1
+    },
+    {
+      "slug": "hdfc-small-cap-fund-direct-growth",
+      "scheme_name": "HDFC Small Cap Fund Direct Growth",
+      "category": "Equity — Small Cap",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "files": {
+        "txt": "hdfc-small-cap-fund-direct-growth.txt",
+        "json": "hdfc-small-cap-fund-direct-growth.json"
+      },
+      "label_count": 16,
+      "section_count": 5,
+      "table_count": 1
+    },
+    {
+      "slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scheme_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "category": "Commodities — Gold",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "files": {
+        "txt": "hdfc-gold-etf-fund-of-fund-direct-plan-growth.txt",
+        "json": "hdfc-gold-etf-fund-of-fund-direct-plan-growth.json"
+      },
+      "label_count": 16,
+      "section_count": 5,
+      "table_count": 1
+    },
+    {
+      "slug": "hdfc-silver-etf-fof-direct-growth",
+      "scheme_name": "HDFC Silver ETF FoF Direct Growth",
+      "category": "Commodities — Silver",
+      "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
+      "files": {
+        "txt": "hdfc-silver-etf-fof-direct-growth.txt",
+        "json": "hdfc-silver-etf-fof-direct-growth.json"
+      },
+      "label_count": 16,
+      "section_count": 5,
+      "table_count": 1
+    }
+  ]
+}

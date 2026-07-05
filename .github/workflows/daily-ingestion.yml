@@ -1,0 +1,91 @@
+name: Daily Ingestion
+
+on:
+  schedule:
+    # 10:30 AM IST (UTC+5:30) = 05:00 UTC
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: daily-ingestion
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Cache Hugging Face models
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            hf-${{ runner.os }}-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily ingestion
+        run: python scripts/run_ingestion.py
+
+      - name: Commit updated index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/chunks data/processed data/vectorstore data/ingestion_log.jsonl
+          if git diff --staged --quiet; then
+            echo "No index changes to commit."
+          else
+            git commit -m "chore: daily corpus refresh [skip ci]"
+            git push
+          fi
+
+      - name: Upload ingestion artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ingestion-${{ github.run_id }}
+          path: |
+            data/chunks/chunks.jsonl
+            data/vectorstore/index_manifest.json
+            data/ingestion_log.jsonl
+          if-no-files-found: ignore
+
+      - name: Trigger production reindex
+        if: success()
+        env:
+          REINDEX_API_URL: ${{ secrets.REINDEX_API_URL }}
+          REINDEX_API_SECRET: ${{ secrets.REINDEX_API_SECRET }}
+        run: |
+          if [ -z "$REINDEX_API_URL" ]; then
+            echo "REINDEX_API_URL not set; skipping reindex hook."
+            exit 0
+          fi
+          curl -sf -X POST "$REINDEX_API_URL" \
+            -H "Authorization: Bearer ${REINDEX_API_SECRET}" \
+            -H "Content-Type: application/json"
+
+      - name: Trigger deploy webhook
+        if: success()
+        env:
+          DEPLOY_WEBHOOK_URL: ${{ secrets.DEPLOY_WEBHOOK_URL }}
+        run: |
+          if [ -z "$DEPLOY_WEBHOOK_URL" ]; then
+            echo "DEPLOY_WEBHOOK_URL not set; skipping deploy webhook."
+            exit 0
+          fi
+          curl -sf -X POST "$DEPLOY_WEBHOOK_URL"

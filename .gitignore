@@ -1,0 +1,22 @@
+# Environment and secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Data — raw HTML is not committed; CI commits processed chunks and vectorstore
+data/raw/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Frontend
+ui/node_modules/
+ui/dist/

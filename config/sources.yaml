@@ -1,0 +1,22 @@
+amc: HDFC Mutual Fund
+schemes:
+  - name: HDFC Large Cap Fund Direct Growth
+    category: Equity — Large Cap
+    url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+    aliases: [large cap, hdfc large cap]
+  - name: HDFC Mid Cap Fund Direct Growth
+    category: Equity — Mid Cap
+    url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
+    aliases: [mid cap, hdfc mid cap]
+  - name: HDFC Small Cap Fund Direct Growth
+    category: Equity — Small Cap
+    url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+    aliases: [small cap, hdfc small cap]
+  - name: HDFC Gold ETF Fund of Fund Direct Plan Growth
+    category: Commodities — Gold
+    url: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
+    aliases: [gold etf, hdfc gold etf, gold fund]
+  - name: HDFC Silver ETF FoF Direct Growth
+    category: Commodities — Silver
+    url: https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth
+    aliases: [silver etf, silver fund, hdfc silver]

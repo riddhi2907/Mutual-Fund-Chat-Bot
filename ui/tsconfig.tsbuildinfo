@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/api/chat.ts","./src/components/chatinput.tsx","./src/components/chatmessagebubble.tsx","./src/components/chatmessages.tsx","./src/components/disclaimerbar.tsx","./src/components/examplechips.tsx","./src/components/header.tsx"],"version":"5.8.3"}
