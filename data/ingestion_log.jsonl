@@ -1,0 +1,1 @@
+{"timestamp": "2026-07-05T19:25:44.768131+00:00", "status": "success", "chunk_count": 60, "duration_seconds": 18.13, "commit_sha": "a8c455e5aa8fbf2656864c915f5659b4bf3d3cdb", "github_run_id": "28752109803", "source": "github_actions", "counts": {"fetched": 5, "parsed": 5, "chunked": 60, "indexed": 60}}
