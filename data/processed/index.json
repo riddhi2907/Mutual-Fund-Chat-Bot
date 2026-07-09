@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T07:28:11.385734+00:00",
+  "generated_at": "2026-07-09T08:31:57.864112+00:00",
   "scheme_count": 5,
   "schemes": [
     {
@@ -50,9 +50,9 @@
         "txt": "hdfc-gold-etf-fund-of-fund-direct-plan-growth.txt",
         "json": "hdfc-gold-etf-fund-of-fund-direct-plan-growth.json"
       },
-      "label_count": 16,
-      "section_count": 5,
-      "table_count": 1
+      "label_count": 1,
+      "section_count": 0,
+      "table_count": 0
     },
     {
       "slug": "hdfc-silver-etf-fof-direct-growth",
