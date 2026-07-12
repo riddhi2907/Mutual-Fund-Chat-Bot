@@ -41,7 +41,7 @@ Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +32.9% | +23.1% | +15.3% | +10.9%
 Category average ( Commodities Gold ) | +34.1% | +21.0% | +17.0% | --
-Rank ( Commodities Gold ) | 8 | 7 | 4 | --
+Rank ( Commodities Gold ) | 9 | 7 | 4 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
@@ -95,7 +95,7 @@ Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +32.9% | +23.1% | +15.3% | +10.9%
 Category average ( Commodities Gold ) | +34.1% | +21.0% | +17.0% | --
-Rank ( Commodities Gold ) | 8 | 7 | 4 | --
+Rank ( Commodities Gold ) | 9 | 7 | 4 | --
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.

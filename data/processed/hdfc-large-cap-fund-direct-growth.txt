@@ -41,7 +41,7 @@ Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +11.9% | +13.5% | +13.5% | +13.3%
 Category average ( Equity Large Cap ) | +15.1% | +15.0% | +13.2% | --
-Rank ( Equity Large Cap ) | 38 | 14 | 12 | --
+Rank ( Equity Large Cap ) | 40 | 14 | 12 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
@@ -95,7 +95,7 @@ Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +11.9% | +13.5% | +13.5% | +13.3%
 Category average ( Equity Large Cap ) | +15.1% | +15.0% | +13.2% | --
-Rank ( Equity Large Cap ) | 38 | 14 | 12 | --
+Rank ( Equity Large Cap ) | 40 | 14 | 12 | --
 
 Exit load
 Exit load of 1% if redeemed within 1 year

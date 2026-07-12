@@ -41,7 +41,7 @@ Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +21.3% | +20.9% | +18.7% | +20.4%
 Category average ( Equity Mid Cap ) | +21.6% | +21.5% | +16.0% | --
-Rank ( Equity Mid Cap ) | 15 | 4 | 5 | --
+Rank ( Equity Mid Cap ) | 13 | 4 | 5 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
@@ -95,7 +95,7 @@ Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +21.3% | +20.9% | +18.7% | +20.4%
 Category average ( Equity Mid Cap ) | +21.6% | +21.5% | +16.0% | --
-Rank ( Equity Mid Cap ) | 15 | 4 | 5 | --
+Rank ( Equity Mid Cap ) | 13 | 4 | 5 | --
 
 Exit load
 Exit load of 1% if redeemed within 1 year.

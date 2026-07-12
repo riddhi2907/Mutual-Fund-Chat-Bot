@@ -41,7 +41,7 @@ Returns and rankings
 Name | 6M | 1Y | 3Y | All
 Fund returns | -9.8% | +99.7% | +43.6% | +41.8%
 Category average ( Commodities Silver ) | +115.7% | +154.8% | +47.1% | --
-Rank ( Commodities Silver ) | -- | 5 | 4 | --
+Rank ( Commodities Silver ) | -- | 6 | 4 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
@@ -95,7 +95,7 @@ Returns and rankings
 Name | 6M | 1Y | 3Y | All
 Fund returns | -9.8% | +99.7% | +43.6% | +41.8%
 Category average ( Commodities Silver ) | +115.7% | +154.8% | +47.1% | --
-Rank ( Commodities Silver ) | -- | 5 | 4 | --
+Rank ( Commodities Silver ) | -- | 6 | 4 | --
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.
