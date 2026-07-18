@@ -3,7 +3,7 @@ Category: Commodities — Gold
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 16 Jul '26: ₹43.96
+NAV: 17 Jul '26: ₹43.70
 Min. for SIP: ₹100
 Fund size (AUM): ₹11,019.45 Cr
 Expense ratio: 0.20%
@@ -46,7 +46,7 @@ Rank ( Commodities Gold ) | 7 | 5 | 3 | --
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 16 Jul '26: ₹43.96
+NAV: 17 Jul '26: ₹43.70
 
 Min. for SIP: ₹100
 
