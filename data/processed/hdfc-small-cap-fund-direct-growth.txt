@@ -3,7 +3,7 @@ Category: Equity — Small Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 23 Jul '26: ₹157.29
+NAV: 24 Jul '26: ₹157.65
 Min. for SIP: ₹100
 Fund size (AUM): ₹40,416.80 Cr
 Expense ratio: 0.76%
@@ -46,7 +46,7 @@ Rank ( Equity Small Cap ) | 32 | 17 | 4 | --
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 23 Jul '26: ₹157.29
+NAV: 24 Jul '26: ₹157.65
 
 Min. for SIP: ₹100
 
