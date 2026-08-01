@@ -3,7 +3,7 @@ Category: Commodities — Silver
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 30 Jul '26: ₹35.69
+NAV: 31 Jul '26: ₹35.67
 Min. for SIP: ₹100
 Fund size (AUM): ₹4,326.56 Cr
 Expense ratio: 0.22%
@@ -41,12 +41,12 @@ Returns and rankings
 Name | 6M | 1Y | 3Y | All
 Fund returns | -30.7% | +86.1% | +41.1% | +40.6%
 Category average ( Commodities Silver ) | +115.7% | +154.8% | +47.1% | --
-Rank ( Commodities Silver ) | -- | 9 | 5 | --
+Rank ( Commodities Silver ) | -- | 10 | 5 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 30 Jul '26: ₹35.69
+NAV: 31 Jul '26: ₹35.67
 
 Min. for SIP: ₹100
 
@@ -95,7 +95,7 @@ Returns and rankings
 Name | 6M | 1Y | 3Y | All
 Fund returns | -30.7% | +86.1% | +41.1% | +40.6%
 Category average ( Commodities Silver ) | +115.7% | +154.8% | +47.1% | --
-Rank ( Commodities Silver ) | -- | 9 | 5 | --
+Rank ( Commodities Silver ) | -- | 10 | 5 | --
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.
