@@ -2,7 +2,7 @@
   "bge_model_name": "BAAI/bge-small-en-v1.5",
   "collection_name": "hdfc_funds",
   "chunk_count": 60,
-  "embedded_at": "2026-08-17T05:33:30.018445Z",
+  "embedded_at": "2026-08-18T05:26:42.048610Z",
   "chunk_ids": [
     "hdfc-gold-etf-fund-of-fund-direct-plan-growth-nav-001",
     "hdfc-gold-etf-fund-of-fund-direct-plan-growth-min_sip-001",
