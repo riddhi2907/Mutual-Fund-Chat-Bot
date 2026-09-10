@@ -3,10 +3,10 @@ Category: Equity — Large Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 08 Sep '26: ₹1,218.25
+NAV: 09 Sep '26: ₹1,209.16
 Min. for SIP: ₹100
-Fund size (AUM): ₹40,197.89 Cr
-Expense ratio: 1.02%
+Fund size (AUM): ₹39,933.37 Cr
+Expense ratio: 1.03%
 Rating: 4
 Fund benchmark: NIFTY 100 Total Return Index
 Total AUM: ₹9,67,910.31 Cr
@@ -39,20 +39,20 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 ### Returns and rankings
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +9.2% | +11.5% | +12.1% | +13.0%
+Fund returns | +8.9% | +11.3% | +12.2% | +12.9%
 Category average ( Equity Large Cap ) | +15.1% | +15.0% | +13.2% | --
-Rank ( Equity Large Cap ) | 43 | 14 | 14 | --
+Rank ( Equity Large Cap ) | 44 | 15 | 13 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 08 Sep '26: ₹1,218.25
+NAV: 09 Sep '26: ₹1,209.16
 
 Min. for SIP: ₹100
 
-Fund size (AUM): ₹40,197.89 Cr
+Fund size (AUM): ₹39,933.37 Cr
 
-Expense ratio: 1.02%
+Expense ratio: 1.03%
 
 Rating: 4
 
@@ -93,9 +93,9 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +9.2% | +11.5% | +12.1% | +13.0%
+Fund returns | +8.9% | +11.3% | +12.2% | +12.9%
 Category average ( Equity Large Cap ) | +15.1% | +15.0% | +13.2% | --
-Rank ( Equity Large Cap ) | 43 | 14 | 14 | --
+Rank ( Equity Large Cap ) | 44 | 15 | 13 | --
 
 Exit load
 Exit load of 1% if redeemed within 1 year
