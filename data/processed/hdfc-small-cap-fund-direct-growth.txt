@@ -3,7 +3,7 @@ Category: Equity — Small Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 17 Sep '26: ₹158.91
+NAV: 18 Sep '26: ₹160.82
 Min. for SIP: ₹100
 Fund size (AUM): ₹41,890.86 Cr
 Expense ratio: 0.77%
@@ -40,13 +40,13 @@ The scheme seeks to provide long-term capital appreciation /income by investing 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +10.3% | +14.6% | +17.6% | +18.3%
-Category average ( Equity Small Cap ) | +15.9% | +17.1% | +18.1% | +20.5%
+Category average ( Equity Small Cap ) | +15.7% | +16.4% | +17.9% | +20.3%
 Rank ( Equity Small Cap ) | 34 | 18 | 5 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 17 Sep '26: ₹158.91
+NAV: 18 Sep '26: ₹160.82
 
 Min. for SIP: ₹100
 
@@ -94,7 +94,7 @@ The scheme seeks to provide long-term capital appreciation /income by investing 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +10.3% | +14.6% | +17.6% | +18.3%
-Category average ( Equity Small Cap ) | +15.9% | +17.1% | +18.1% | +20.5%
+Category average ( Equity Small Cap ) | +15.7% | +16.4% | +17.9% | +20.3%
 Rank ( Equity Small Cap ) | 34 | 18 | 5 | --
 
 Exit load
