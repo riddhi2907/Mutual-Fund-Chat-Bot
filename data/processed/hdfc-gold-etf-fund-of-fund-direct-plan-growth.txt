@@ -40,7 +40,7 @@ The Scheme seeks to generate capital appreciation by investing in units of HDFC 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +35.7% | +25.7% | +16.2% | +11.2%
-Category average ( Commodities Gold ) | +34.1% | +21.0% | +17.0% | --
+Category average ( Commodities Gold ) | +37.5% | +26.8% | +17.2% | +13.1%
 Rank ( Commodities Gold ) | 8 | 5 | 3 | --
 
 ## Page Content
@@ -94,7 +94,7 @@ The Scheme seeks to generate capital appreciation by investing in units of HDFC 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +35.7% | +25.7% | +16.2% | +11.2%
-Category average ( Commodities Gold ) | +34.1% | +21.0% | +17.0% | --
+Category average ( Commodities Gold ) | +37.5% | +26.8% | +17.2% | +13.1%
 Rank ( Commodities Gold ) | 8 | 5 | 3 | --
 
 Exit load
