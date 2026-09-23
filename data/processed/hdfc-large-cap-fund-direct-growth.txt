@@ -3,7 +3,7 @@ Category: Equity — Large Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 21 Sep '26: ₹1,206.39
+NAV: 22 Sep '26: ₹1,203.46
 Min. for SIP: ₹100
 Fund size (AUM): ₹39,933.37 Cr
 Expense ratio: 1.03%
@@ -46,7 +46,7 @@ Rank ( Equity Large Cap ) | 45 | 16 | 14 | --
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 21 Sep '26: ₹1,206.39
+NAV: 22 Sep '26: ₹1,203.46
 
 Min. for SIP: ₹100
 
