@@ -39,9 +39,9 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 ### Returns and rankings
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +16.9% | +18.4% | +17.1% | +19.9%
-Category average ( Equity Mid Cap ) | +16.1% | +15.3% | +16.3% | +18.6%
-Rank ( Equity Mid Cap ) | 16 | 3 | 8 | --
+Fund returns | +16.8% | +18.3% | +17.0% | +19.9%
+Category average ( Equity Mid Cap ) | +15.9% | +15.2% | +16.3% | +18.5%
+Rank ( Equity Mid Cap ) | 16 | 3 | 7 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
@@ -93,9 +93,9 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +16.9% | +18.4% | +17.1% | +19.9%
-Category average ( Equity Mid Cap ) | +16.1% | +15.3% | +16.3% | +18.6%
-Rank ( Equity Mid Cap ) | 16 | 3 | 8 | --
+Fund returns | +16.8% | +18.3% | +17.0% | +19.9%
+Category average ( Equity Mid Cap ) | +15.9% | +15.2% | +16.3% | +18.5%
+Rank ( Equity Mid Cap ) | 16 | 3 | 7 | --
 
 Exit load
 Exit load of 1% if redeemed within 1 year.
