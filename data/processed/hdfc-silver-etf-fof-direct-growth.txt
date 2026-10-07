@@ -3,7 +3,7 @@ Category: Commodities — Silver
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 05 Oct '26: ₹36.60
+NAV: 06 Oct '26: ₹36.36
 Min. for SIP: ₹100
 Fund size (AUM): ₹4,698.50 Cr
 Expense ratio: 0.21%
@@ -39,14 +39,14 @@ The scheme is seek to capital appreciation by investing in units of HDFC Silver 
 ### Returns and rankings
 Returns and rankings
 Name | 6M | 1Y | 3Y | All
-Fund returns | -1.9% | +50.3% | +45.4% | +39.3%
+Fund returns | -5.6% | +45.3% | +44.5% | +39.0%
 Category average ( Commodities Silver ) | -7.1% | +52.4% | +44.0% | +30.4%
-Rank ( Commodities Silver ) | -- | 7 | 4 | --
+Rank ( Commodities Silver ) | -- | 10 | 5 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 05 Oct '26: ₹36.60
+NAV: 06 Oct '26: ₹36.36
 
 Min. for SIP: ₹100
 
@@ -93,9 +93,9 @@ The scheme is seek to capital appreciation by investing in units of HDFC Silver 
 
 Returns and rankings
 Name | 6M | 1Y | 3Y | All
-Fund returns | -1.9% | +50.3% | +45.4% | +39.3%
+Fund returns | -5.6% | +45.3% | +44.5% | +39.0%
 Category average ( Commodities Silver ) | -7.1% | +52.4% | +44.0% | +30.4%
-Rank ( Commodities Silver ) | -- | 7 | 4 | --
+Rank ( Commodities Silver ) | -- | 10 | 5 | --
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.
