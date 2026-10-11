@@ -39,9 +39,9 @@ The scheme is seek to capital appreciation by investing in units of HDFC Silver 
 ### Returns and rankings
 Returns and rankings
 Name | 6M | 1Y | 3Y | All
-Fund returns | -6.5% | +36.5% | +43.3% | +38.2%
-Category average ( Commodities Silver ) | -10.8% | +40.0% | +44.3% | +29.9%
-Rank ( Commodities Silver ) | -- | 6 | 5 | --
+Fund returns | -6.5% | +28.7% | +44.1% | +38.8%
+Category average ( Commodities Silver ) | -6.4% | +36.0% | +45.2% | +30.4%
+Rank ( Commodities Silver ) | -- | 10 | 5 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
@@ -93,9 +93,9 @@ The scheme is seek to capital appreciation by investing in units of HDFC Silver 
 
 Returns and rankings
 Name | 6M | 1Y | 3Y | All
-Fund returns | -6.5% | +36.5% | +43.3% | +38.2%
-Category average ( Commodities Silver ) | -10.8% | +40.0% | +44.3% | +29.9%
-Rank ( Commodities Silver ) | -- | 6 | 5 | --
+Fund returns | -6.5% | +28.7% | +44.1% | +38.8%
+Category average ( Commodities Silver ) | -6.4% | +36.0% | +45.2% | +30.4%
+Rank ( Commodities Silver ) | -- | 10 | 5 | --
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.
