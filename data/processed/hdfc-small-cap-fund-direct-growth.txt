@@ -3,13 +3,13 @@ Category: Equity — Small Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 09 Oct '26: ₹154.45
+NAV: 12 Oct '26: ₹154.78
 Min. for SIP: ₹100
 Fund size (AUM): ₹40,800.80 Cr
 Expense ratio: 0.79%
 Rating: 3
 Fund benchmark: BSE 250 SmallCap Total Return Index
-Total AUM: ₹9,86,236.84 Cr
+Total AUM: ₹9,34,075.66 Cr
 Date of Incorporation: 10 Dec 1999
 Phone: 022 – 66316333
 Website: http://www.hdfcfund.com
@@ -39,14 +39,14 @@ The scheme seeks to provide long-term capital appreciation /income by investing 
 ### Returns and rankings
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +9.7% | +13.0% | +16.9% | +17.9%
+Fund returns | +9.1% | +12.9% | +16.9% | +17.9%
 Category average ( Equity Small Cap ) | +15.4% | +14.8% | +17.2% | +20.0%
-Rank ( Equity Small Cap ) | 34 | 18 | 6 | --
+Rank ( Equity Small Cap ) | 34 | 17 | 6 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 09 Oct '26: ₹154.45
+NAV: 12 Oct '26: ₹154.78
 
 Min. for SIP: ₹100
 
@@ -58,7 +58,7 @@ Rating: 3
 
 Fund benchmark: BSE 250 SmallCap Total Return Index
 
-Total AUM: ₹9,86,236.84 Cr
+Total AUM: ₹9,34,075.66 Cr
 
 Date of Incorporation: 10 Dec 1999
 
@@ -93,9 +93,9 @@ The scheme seeks to provide long-term capital appreciation /income by investing 
 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +9.7% | +13.0% | +16.9% | +17.9%
+Fund returns | +9.1% | +12.9% | +16.9% | +17.9%
 Category average ( Equity Small Cap ) | +15.4% | +14.8% | +17.2% | +20.0%
-Rank ( Equity Small Cap ) | 34 | 18 | 6 | --
+Rank ( Equity Small Cap ) | 34 | 17 | 6 | --
 
 Exit load
 Exit load of 1% if redeemed within 1 year
