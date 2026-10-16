@@ -3,8 +3,8 @@ Category: Commodities — Gold
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 14 Oct '26: ₹45.20
-Min. for SIP: ₹100
+NAV: 15 Oct '26: ₹45.19
+Min. for SIP: Not Supported
 Fund size (AUM): ₹12,013.27 Cr
 Expense ratio: 0.20%
 Rating: 3
@@ -20,7 +20,7 @@ Registrar & Transfer Agent: Cams
 Email: [email protected]
 
 ## Minimum investments
-Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP Not Supported
 
 ## Exit load
 Exit load of 1%, if redeemed within 15 days.
@@ -39,16 +39,16 @@ The Scheme seeks to generate capital appreciation by investing in units of HDFC 
 ### Returns and rankings
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +34.0% | +23.6% | +15.8% | +10.8%
+Fund returns | +34.0% | +23.6% | +15.8% | +10.7%
 Category average ( Commodities Gold ) | +37.4% | +25.8% | +17.1% | +12.8%
-Rank ( Commodities Gold ) | 6 | 5 | 2 | --
+Rank ( Commodities Gold ) | 8 | 5 | 2 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 14 Oct '26: ₹45.20
+NAV: 15 Oct '26: ₹45.19
 
-Min. for SIP: ₹100
+Min. for SIP: Not Supported
 
 Fund size (AUM): ₹12,013.27 Cr
 
@@ -77,7 +77,7 @@ Registrar & Transfer Agent: Cams
 Email: [email protected]
 
 Minimum investments
-Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP Not Supported
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.
@@ -93,9 +93,9 @@ The Scheme seeks to generate capital appreciation by investing in units of HDFC 
 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +34.0% | +23.6% | +15.8% | +10.8%
+Fund returns | +34.0% | +23.6% | +15.8% | +10.7%
 Category average ( Commodities Gold ) | +37.4% | +25.8% | +17.1% | +12.8%
-Rank ( Commodities Gold ) | 6 | 5 | 2 | --
+Rank ( Commodities Gold ) | 8 | 5 | 2 | --
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.
