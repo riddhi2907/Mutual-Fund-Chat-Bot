@@ -3,10 +3,10 @@ Category: Equity — Mid Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 15 Oct '26: ₹221.57
+NAV: 16 Oct '26: ₹221.06
 Min. for SIP: ₹100
 Fund size (AUM): ₹1,01,856.06 Cr
-Expense ratio: 0.75%
+Expense ratio: 0.74%
 Rating: 4
 Fund benchmark: NIFTY Midcap 150 Total Return Index
 Total AUM: ₹9,34,075.66 Cr
@@ -40,19 +40,19 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +15.4% | +16.4% | +16.6% | +19.6%
-Category average ( Equity Mid Cap ) | +14.9% | +13.7% | +15.6% | +18.2%
+Category average ( Equity Mid Cap ) | +14.3% | +13.3% | +15.8% | +18.2%
 Rank ( Equity Mid Cap ) | 13 | 3 | 8 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 15 Oct '26: ₹221.57
+NAV: 16 Oct '26: ₹221.06
 
 Min. for SIP: ₹100
 
 Fund size (AUM): ₹1,01,856.06 Cr
 
-Expense ratio: 0.75%
+Expense ratio: 0.74%
 
 Rating: 4
 
@@ -94,7 +94,7 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +15.4% | +16.4% | +16.6% | +19.6%
-Category average ( Equity Mid Cap ) | +14.9% | +13.7% | +15.6% | +18.2%
+Category average ( Equity Mid Cap ) | +14.3% | +13.3% | +15.8% | +18.2%
 Rank ( Equity Mid Cap ) | 13 | 3 | 8 | --
 
 Exit load
