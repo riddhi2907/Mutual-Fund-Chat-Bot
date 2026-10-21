@@ -40,7 +40,7 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +15.2% | +16.5% | +16.4% | +19.5%
-Category average ( Equity Mid Cap ) | +14.2% | +13.2% | +15.7% | +18.2%
+Category average ( Equity Mid Cap ) | +14.0% | +13.2% | +15.6% | +18.1%
 Rank ( Equity Mid Cap ) | 12 | 3 | 7 | --
 
 ## Page Content
@@ -94,7 +94,7 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +15.2% | +16.5% | +16.4% | +19.5%
-Category average ( Equity Mid Cap ) | +14.2% | +13.2% | +15.7% | +18.2%
+Category average ( Equity Mid Cap ) | +14.0% | +13.2% | +15.6% | +18.1%
 Rank ( Equity Mid Cap ) | 12 | 3 | 7 | --
 
 Exit load
