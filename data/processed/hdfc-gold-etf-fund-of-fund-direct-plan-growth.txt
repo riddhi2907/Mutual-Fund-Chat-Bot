@@ -3,8 +3,8 @@ Category: Commodities — Gold
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 21 Oct '26: ₹44.55
-Min. for SIP: Not Supported
+NAV: 22 Oct '26: ₹44.25
+Min. for SIP: --
 Fund size (AUM): ₹12,013.27 Cr
 Expense ratio: 0.20%
 Rating: 3
@@ -20,7 +20,7 @@ Registrar & Transfer Agent: Cams
 Email: [email protected]
 
 ## Minimum investments
-Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP Not Supported
+Min. for 1st investment -- Min. for 2nd investment -- Min. for SIP --
 
 ## Exit load
 Exit load of 1%, if redeemed within 15 days.
@@ -39,16 +39,16 @@ The Scheme seeks to generate capital appreciation by investing in units of HDFC 
 ### Returns and rankings
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +31.8% | +23.5% | +15.7% | +10.6%
+Fund returns | +31.4% | +23.2% | +15.6% | +10.6%
 Category average ( Commodities Gold ) | +34.7% | +24.9% | +16.9% | +12.6%
-Rank ( Commodities Gold ) | 4 | 5 | 4 | --
+Rank ( Commodities Gold ) | 5 | 6 | 4 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 21 Oct '26: ₹44.55
+NAV: 22 Oct '26: ₹44.25
 
-Min. for SIP: Not Supported
+Min. for SIP: --
 
 Fund size (AUM): ₹12,013.27 Cr
 
@@ -77,7 +77,7 @@ Registrar & Transfer Agent: Cams
 Email: [email protected]
 
 Minimum investments
-Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP Not Supported
+Min. for 1st investment -- Min. for 2nd investment -- Min. for SIP --
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.
@@ -93,9 +93,9 @@ The Scheme seeks to generate capital appreciation by investing in units of HDFC 
 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +31.8% | +23.5% | +15.7% | +10.6%
+Fund returns | +31.4% | +23.2% | +15.6% | +10.6%
 Category average ( Commodities Gold ) | +34.7% | +24.9% | +16.9% | +12.6%
-Rank ( Commodities Gold ) | 4 | 5 | 4 | --
+Rank ( Commodities Gold ) | 5 | 6 | 4 | --
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.
