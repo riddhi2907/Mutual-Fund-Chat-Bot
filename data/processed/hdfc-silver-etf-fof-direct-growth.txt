@@ -39,8 +39,8 @@ The scheme is seek to capital appreciation by investing in units of HDFC Silver 
 ### Returns and rankings
 Returns and rankings
 Name | 6M | 1Y | 3Y | All
-Fund returns | -20.2% | +27.7% | +38.2% | +34.9%
-Category average ( Commodities Silver ) | -19.5% | +30.7% | +39.5% | +27.4%
+Fund returns | -20.2% | +29.8% | +36.7% | +33.8%
+Category average ( Commodities Silver ) | -19.9% | +33.3% | +37.9% | +26.5%
 Rank ( Commodities Silver ) | -- | 8 | 6 | --
 
 ## Page Content
@@ -93,8 +93,8 @@ The scheme is seek to capital appreciation by investing in units of HDFC Silver 
 
 Returns and rankings
 Name | 6M | 1Y | 3Y | All
-Fund returns | -20.2% | +27.7% | +38.2% | +34.9%
-Category average ( Commodities Silver ) | -19.5% | +30.7% | +39.5% | +27.4%
+Fund returns | -20.2% | +29.8% | +36.7% | +33.8%
+Category average ( Commodities Silver ) | -19.9% | +33.3% | +37.9% | +26.5%
 Rank ( Commodities Silver ) | -- | 8 | 6 | --
 
 Exit load
