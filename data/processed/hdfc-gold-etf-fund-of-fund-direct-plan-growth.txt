@@ -3,7 +3,7 @@ Category: Commodities — Gold
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 28 Oct '26: ₹44.14
+NAV: 29 Oct '26: ₹43.87
 Min. for SIP: --
 Fund size (AUM): ₹12,013.27 Cr
 Expense ratio: 0.20%
@@ -39,14 +39,14 @@ The Scheme seeks to generate capital appreciation by investing in units of HDFC 
 ### Returns and rankings
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +31.2% | +23.1% | +15.6% | +10.5%
+Fund returns | +30.9% | +22.9% | +15.5% | +10.5%
 Category average ( Commodities Gold ) | +32.7% | +23.8% | +16.5% | +12.4%
-Rank ( Commodities Gold ) | 6 | 6 | 2 | --
+Rank ( Commodities Gold ) | 6 | 4 | 2 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 28 Oct '26: ₹44.14
+NAV: 29 Oct '26: ₹43.87
 
 Min. for SIP: --
 
@@ -93,9 +93,9 @@ The Scheme seeks to generate capital appreciation by investing in units of HDFC 
 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +31.2% | +23.1% | +15.6% | +10.5%
+Fund returns | +30.9% | +22.9% | +15.5% | +10.5%
 Category average ( Commodities Gold ) | +32.7% | +23.8% | +16.5% | +12.4%
-Rank ( Commodities Gold ) | 6 | 6 | 2 | --
+Rank ( Commodities Gold ) | 6 | 4 | 2 | --
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.
