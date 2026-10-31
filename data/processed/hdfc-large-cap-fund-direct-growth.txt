@@ -3,7 +3,7 @@ Category: Equity — Large Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 29 Oct '26: ₹1,161.81
+NAV: 30 Oct '26: ₹1,164.95
 Min. for SIP: ₹100
 Fund size (AUM): ₹37,293.95 Cr
 Expense ratio: 1.02%
@@ -40,13 +40,13 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +8.6% | +9.5% | +11.8% | +12.5%
-Category average ( Equity Large Cap ) | +9.6% | +7.6% | +11.6% | +12.3%
+Category average ( Equity Large Cap ) | +10.6% | +8.5% | +11.9% | +12.4%
 Rank ( Equity Large Cap ) | 50 | 19 | 12 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 29 Oct '26: ₹1,161.81
+NAV: 30 Oct '26: ₹1,164.95
 
 Min. for SIP: ₹100
 
@@ -94,7 +94,7 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +8.6% | +9.5% | +11.8% | +12.5%
-Category average ( Equity Large Cap ) | +9.6% | +7.6% | +11.6% | +12.3%
+Category average ( Equity Large Cap ) | +10.6% | +8.5% | +11.9% | +12.4%
 Rank ( Equity Large Cap ) | 50 | 19 | 12 | --
 
 Exit load
