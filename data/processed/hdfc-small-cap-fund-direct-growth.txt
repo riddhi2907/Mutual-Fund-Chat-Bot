@@ -40,7 +40,7 @@ The scheme seeks to provide long-term capital appreciation /income by investing 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +9.3% | +12.9% | +17.3% | +17.8%
-Category average ( Equity Small Cap ) | +14.2% | +14.8% | +17.4% | +19.8%
+Category average ( Equity Small Cap ) | +14.3% | +14.4% | +17.6% | +19.9%
 Rank ( Equity Small Cap ) | 35 | 16 | 6 | --
 
 ## Page Content
@@ -94,7 +94,7 @@ The scheme seeks to provide long-term capital appreciation /income by investing 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +9.3% | +12.9% | +17.3% | +17.8%
-Category average ( Equity Small Cap ) | +14.2% | +14.8% | +17.4% | +19.8%
+Category average ( Equity Small Cap ) | +14.3% | +14.4% | +17.6% | +19.9%
 Rank ( Equity Small Cap ) | 35 | 16 | 6 | --
 
 Exit load

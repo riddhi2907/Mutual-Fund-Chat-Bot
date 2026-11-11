@@ -40,8 +40,8 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +10.8% | +10.7% | +13.0% | +13.1%
-Category average ( Equity Large Cap ) | +12.5% | +9.8% | +13.0% | +13.0%
-Rank ( Equity Large Cap ) | 49 | 19 | 12 | --
+Category average ( Equity Large Cap ) | +12.5% | +9.6% | +13.1% | +13.1%
+Rank ( Equity Large Cap ) | 50 | 19 | 12 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
@@ -94,8 +94,8 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +10.8% | +10.7% | +13.0% | +13.1%
-Category average ( Equity Large Cap ) | +12.5% | +9.8% | +13.0% | +13.0%
-Rank ( Equity Large Cap ) | 49 | 19 | 12 | --
+Category average ( Equity Large Cap ) | +12.5% | +9.6% | +13.1% | +13.1%
+Rank ( Equity Large Cap ) | 50 | 19 | 12 | --
 
 Exit load
 Exit load of 1% if redeemed within 1 year
