@@ -3,9 +3,9 @@ Category: Equity — Large Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 09 Nov '26: ₹1,260.67
+NAV: 11 Nov '26: ₹1,269.86
 Min. for SIP: ₹100
-Fund size (AUM): ₹37,293.95 Cr
+Fund size (AUM): ₹37,466.30 Cr
 Expense ratio: 1.00%
 Rating: 4
 Fund benchmark: NIFTY 100 Total Return Index
@@ -46,11 +46,11 @@ Rank ( Equity Large Cap ) | 50 | 19 | 12 | --
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 09 Nov '26: ₹1,260.67
+NAV: 11 Nov '26: ₹1,269.86
 
 Min. for SIP: ₹100
 
-Fund size (AUM): ₹37,293.95 Cr
+Fund size (AUM): ₹37,466.30 Cr
 
 Expense ratio: 1.00%
 
