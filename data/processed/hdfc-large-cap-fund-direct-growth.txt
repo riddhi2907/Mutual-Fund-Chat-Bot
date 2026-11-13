@@ -3,13 +3,13 @@ Category: Equity — Large Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 11 Nov '26: ₹1,269.86
+NAV: 12 Nov '26: ₹1,274.09
 Min. for SIP: ₹100
 Fund size (AUM): ₹37,466.30 Cr
 Expense ratio: 1.00%
 Rating: 4
 Fund benchmark: NIFTY 100 Total Return Index
-Total AUM: ₹9,34,075.66 Cr
+Total AUM: ₹9,33,671.14 Cr
 Date of Incorporation: 10 Dec 1999
 Phone: 022 – 66316333
 Website: http://www.hdfcfund.com
@@ -39,14 +39,14 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 ### Returns and rankings
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +10.8% | +10.7% | +13.0% | +13.1%
+Fund returns | +11.0% | +11.0% | +13.1% | +13.2%
 Category average ( Equity Large Cap ) | +12.5% | +9.6% | +13.1% | +13.1%
-Rank ( Equity Large Cap ) | 50 | 19 | 12 | --
+Rank ( Equity Large Cap ) | 50 | 17 | 15 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 11 Nov '26: ₹1,269.86
+NAV: 12 Nov '26: ₹1,274.09
 
 Min. for SIP: ₹100
 
@@ -58,7 +58,7 @@ Rating: 4
 
 Fund benchmark: NIFTY 100 Total Return Index
 
-Total AUM: ₹9,34,075.66 Cr
+Total AUM: ₹9,33,671.14 Cr
 
 Date of Incorporation: 10 Dec 1999
 
@@ -93,9 +93,9 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +10.8% | +10.7% | +13.0% | +13.1%
+Fund returns | +11.0% | +11.0% | +13.1% | +13.2%
 Category average ( Equity Large Cap ) | +12.5% | +9.6% | +13.1% | +13.1%
-Rank ( Equity Large Cap ) | 50 | 19 | 12 | --
+Rank ( Equity Large Cap ) | 50 | 17 | 15 | --
 
 Exit load
 Exit load of 1% if redeemed within 1 year

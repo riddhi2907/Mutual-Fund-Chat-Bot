@@ -3,13 +3,13 @@ Category: Equity — Mid Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 11 Nov '26: ₹229.55
+NAV: 12 Nov '26: ₹230.66
 Min. for SIP: ₹100
 Fund size (AUM): ₹1,00,687.07 Cr
 Expense ratio: 0.74%
 Rating: 4
 Fund benchmark: NIFTY Midcap 150 Total Return Index
-Total AUM: ₹9,34,075.66 Cr
+Total AUM: ₹9,33,671.14 Cr
 Date of Incorporation: 10 Dec 1999
 Phone: 022 – 66316333
 Website: http://www.hdfcfund.com
@@ -39,14 +39,14 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 ### Returns and rankings
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +16.0% | +17.3% | +17.3% | +19.7%
+Fund returns | +16.4% | +17.6% | +17.6% | +19.8%
 Category average ( Equity Mid Cap ) | +15.3% | +13.9% | +16.5% | +18.3%
-Rank ( Equity Mid Cap ) | 16 | 4 | 7 | --
+Rank ( Equity Mid Cap ) | 17 | 4 | 8 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 11 Nov '26: ₹229.55
+NAV: 12 Nov '26: ₹230.66
 
 Min. for SIP: ₹100
 
@@ -58,7 +58,7 @@ Rating: 4
 
 Fund benchmark: NIFTY Midcap 150 Total Return Index
 
-Total AUM: ₹9,34,075.66 Cr
+Total AUM: ₹9,33,671.14 Cr
 
 Date of Incorporation: 10 Dec 1999
 
@@ -93,9 +93,9 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +16.0% | +17.3% | +17.3% | +19.7%
+Fund returns | +16.4% | +17.6% | +17.6% | +19.8%
 Category average ( Equity Mid Cap ) | +15.3% | +13.9% | +16.5% | +18.3%
-Rank ( Equity Mid Cap ) | 16 | 4 | 7 | --
+Rank ( Equity Mid Cap ) | 17 | 4 | 8 | --
 
 Exit load
 Exit load of 1% if redeemed within 1 year.
