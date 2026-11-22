@@ -39,9 +39,9 @@ The Scheme seeks to generate capital appreciation by investing in units of HDFC 
 ### Returns and rankings
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +27.0% | +20.1% | +14.9% | +9.7%
-Category average ( Commodities Gold ) | +28.6% | +21.1% | +15.8% | +11.7%
-Rank ( Commodities Gold ) | 7 | 5 | 2 | --
+Fund returns | +25.1% | +19.0% | +14.4% | +9.3%
+Category average ( Commodities Gold ) | +26.9% | +20.0% | +15.3% | +11.4%
+Rank ( Commodities Gold ) | 8 | 2 | 2 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
@@ -93,9 +93,9 @@ The Scheme seeks to generate capital appreciation by investing in units of HDFC 
 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +27.0% | +20.1% | +14.9% | +9.7%
-Category average ( Commodities Gold ) | +28.6% | +21.1% | +15.8% | +11.7%
-Rank ( Commodities Gold ) | 7 | 5 | 2 | --
+Fund returns | +25.1% | +19.0% | +14.4% | +9.3%
+Category average ( Commodities Gold ) | +26.9% | +20.0% | +15.3% | +11.4%
+Rank ( Commodities Gold ) | 8 | 2 | 2 | --
 
 Exit load
 Exit load of 1%, if redeemed within 15 days.
