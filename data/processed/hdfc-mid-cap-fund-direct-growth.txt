@@ -3,7 +3,7 @@ Category: Equity — Mid Cap
 
 ## Fund Overview
 Estimate returns on a SIP: SIP calculator
-NAV: 20 Nov '26: ₹232.52
+NAV: 23 Nov '26: ₹231.35
 Min. for SIP: ₹100
 Fund size (AUM): ₹1,00,687.07 Cr
 Expense ratio: 0.73%
@@ -39,14 +39,14 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 ### Returns and rankings
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +15.9% | +18.5% | +18.0% | +19.9%
+Fund returns | +15.7% | +18.6% | +18.1% | +19.8%
 Category average ( Equity Mid Cap ) | +14.9% | +14.8% | +17.4% | +18.4%
-Rank ( Equity Mid Cap ) | 15 | 3 | 8 | --
+Rank ( Equity Mid Cap ) | 13 | 4 | 6 | --
 
 ## Page Content
 Estimate returns on a SIP: SIP calculator
 
-NAV: 20 Nov '26: ₹232.52
+NAV: 23 Nov '26: ₹231.35
 
 Min. for SIP: ₹100
 
@@ -93,9 +93,9 @@ The scheme seeks to provide long-term capital appreciation/income by investing p
 
 Returns and rankings
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +15.9% | +18.5% | +18.0% | +19.9%
+Fund returns | +15.7% | +18.6% | +18.1% | +19.8%
 Category average ( Equity Mid Cap ) | +14.9% | +14.8% | +17.4% | +18.4%
-Rank ( Equity Mid Cap ) | 15 | 3 | 8 | --
+Rank ( Equity Mid Cap ) | 13 | 4 | 6 | --
 
 Exit load
 Exit load of 1% if redeemed within 1 year.
